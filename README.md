@@ -1,2 +1,2 @@
 # py-stats
-A repos on machine learning algorithms
+A repo with machine learning and statstics algorithms
